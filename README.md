@@ -82,14 +82,8 @@ food-tracker/
 2. Detay sayfasında ürün bilgilerini güncelleyin
 3. "Güncelle" veya "Sil" butonlarını kullanın
 
-## 📝 Lisans
+## Ekran Görüntüleri
+<img width="471" height="1002" alt="anasayfa" src="https://github.com/user-attachments/assets/913a06fd-d03c-4ee2-acbd-bc9a5e7a0255" />
+<img width="475" height="1000" alt="ürün ekleme" src="https://github.com/user-attachments/assets/1fbf8f59-375c-4eae-9e40-9fdb377878de" />
+<img width="477" height="1006" alt="detay sayfası" src="https://github.com/user-attachments/assets/cbc5115c-defa-4884-9e34-3626882421ca" />
 
-Bu proje MIT lisansı altında lisanslanmıştır.
-
-## 👨‍💻 Geliştirici
-
-ASYA
-
-## 🤝 Katkıda Bulunma
-
-Pull request'ler kabul edilir. Büyük değişiklikler için lütfen önce bir issue açarak neyi değiştirmek istediğinizi tartışın.
