@@ -83,7 +83,7 @@ food-tracker/
 3. "Güncelle" veya "Sil" butonlarını kullanın
 
 ## Ekran Görüntüleri
-<img width="471" height="1002" alt="anasayfa" src="https://github.com/user-attachments/assets/913a06fd-d03c-4ee2-acbd-bc9a5e7a0255" />
-<img width="475" height="1000" alt="ürün ekleme" src="https://github.com/user-attachments/assets/1fbf8f59-375c-4eae-9e40-9fdb377878de" />
-<img width="477" height="1006" alt="detay sayfası" src="https://github.com/user-attachments/assets/cbc5115c-defa-4884-9e34-3626882421ca" />
+<img width="300" height="700" alt="anasayfa" src="https://github.com/user-attachments/assets/913a06fd-d03c-4ee2-acbd-bc9a5e7a0255" />
+<img width="300" height="700" alt="ürün ekleme" src="https://github.com/user-attachments/assets/1fbf8f59-375c-4eae-9e40-9fdb377878de" />
+<img width="300" height="700" alt="detay sayfası" src="https://github.com/user-attachments/assets/cbc5115c-defa-4884-9e34-3626882421ca" />
 
